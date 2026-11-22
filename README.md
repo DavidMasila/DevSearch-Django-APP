@@ -1,6 +1,8 @@
 # DevSearch: Django Course Project
 
-A Django project built while following Dennis Ivy's 10-hour Django course. It covers Django fundamentals, building a REST API with Django REST Framework (DRF), and connecting to a separate front end using CORS. A mock front end is included to demonstrate the API in action.
+DevSearch is a developer discovery platform: a place to find developers you might want to hire. Browse developer profiles, see the projects they've built and the languages and skills they're proficient in, and message them directly.
+
+I built while it following Dennis Ivy's 10-hour Django course, which covers Django fundamentals, building a REST API with Django REST Framework (DRF), and connecting to a separate front end using CORS. A mock front end is included to demonstrate the API in action.
 
 
 ## Table of Contents
